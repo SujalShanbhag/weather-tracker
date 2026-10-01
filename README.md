@@ -1,6 +1,6 @@
 # Weather Tracker
 
-A standalone React + Vite + TypeScript weather dashboard converted from the original Expo project.
+A React + Vite + TypeScript weather web application project.
 
 ## Features
 - Current weather and dynamic weather theme
@@ -11,7 +11,6 @@ A standalone React + Vite + TypeScript weather dashboard converted from the orig
 - Air quality (US AQI)
 - UV index, humidity, pressure, sunrise and sunset
 - Responsive desktop/mobile browser UI
-- No Replit or Expo dependency
 - No API key required for the included Open-Meteo/Nominatim integrations
 
 ## Run locally
